@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Nitish Kumar
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently learning Cloud, Microservices and DevOps.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : you can reach me over linkedin, email, and phone number. please find below contact details.
+  - linkedin : https://www.linkedin.com/in/nitish-kumar-53ba16a4/
+  - email : nk6096@gmail.com
+  - phone : +91 7011386907
